@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="transren.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="271"/>
+        <CursorPos X="49" Y="280"/>
+        <UsageCount Value="90"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Microwin\lazarus\fpc\3.2.2\source\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1643"/>
+        <CursorPos X="47" Y="1673"/>
+        <UsageCount Value="5"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\unicodecrt\crth.inc"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="crth.inc"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="18"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unicodecrt.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="18"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="81" Column="18" TopLine="72"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="118" Column="3" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="114" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="180" Column="6" TopLine="171"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="110" Column="32" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="111" Column="20" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="118" Column="17" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="109" Column="31" TopLine="100"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="50" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="58" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="64" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="65" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="66" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="71" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="74" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="75" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="79" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="81" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="84" Column="29" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="174" Column="45" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="107" Column="29" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="199" Column="42" TopLine="183"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="161" Column="43" TopLine="150"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="24" Column="90" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="162" Column="41" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="24" Column="15" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="330" Column="3" TopLine="320"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="331" Column="4" TopLine="321"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="101" Column="11" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="transren.lpr"/>
+        <Caret Line="98" TopLine="87"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default">
+        <Mode Name="default">
+          <local>
+            <CommandLineParams Value="-m *.html -s -d C:\Temp\Test -t"/>
+          </local>
+        </Mode>
+      </Modes>
+    </RunParams>
+    <HistoryLists>
+      <List Name="LaunchingApplication" Type="File" Count="1">
+        <Item1 Value="C:\Windows\system32\cmd.exe /C ${TargetCmdLine}"/>
+      </List>
+      <List Name="CommandLineParameters" Count="7">
+        <Item1 Value="-m *.html -s -d C:\Temp\Test -t"/>
+        <Item2 Value="-m *.html -s -d C:\Temp\Test -t -f"/>
+        <Item3 Value="-m *.html -s -d C:\Temp\Test"/>
+        <Item4 Value="-s -d"/>
+        <Item5 Value="-m *.html -s -t"/>
+        <Item6 Value="-m *.html -s"/>
+        <Item7 Value="-m *.html"/>
+      </List>
+    </HistoryLists>
+  </ProjectSession>
+</CONFIG>
