@@ -1,0 +1,1 @@
+binary files, install sfx, zip archive and one exe file
