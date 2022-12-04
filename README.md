@@ -24,7 +24,7 @@ e.g.:
 
 transren.exe -m *.html - translit *.html in current directory
 
-transren.exe -t *.html - translit subdirs in current directory
+transren.exe -t - translit subdirs in current directory
 
 transren.exe -m *.html -s  - translit *.html in current directory and subdirs
 
