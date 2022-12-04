@@ -35,3 +35,11 @@ transren.exe -m *.html -d D:\DOC\  - translit *.html files in D:\DOC
 If file already exist, program ask for replace it.
 
 If directory already exist, program skip it.
+
+## Screenshots
+
+![01](/screens/01.png)
+
+![02](/screens/02.png)
+
+![03](/screens/03.png)
