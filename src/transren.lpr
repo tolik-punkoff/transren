@@ -38,7 +38,7 @@ var
   Mask, StartDir:string;
   IncludeSubdirs, TranslitSubdirs, TranslitFiles, FindOnly:boolean;
   i:LongInt;
-  lstFiles, lstDirs:TStringList;
+  lstFiles:TStringList=nil; lstDirs:TStringList=nil;
   sOnlyFileName, sTransFileName, sNewFileName:UnicodeString;
   sOnlyDirName, sTransDirName, sNewDirName:UnicodeString;
   ctrFoundFiles, ctrRenamedFiles, ctrErrFiles:longint;
